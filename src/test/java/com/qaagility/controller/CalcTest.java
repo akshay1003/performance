@@ -28,10 +28,5 @@ public class CalcTest {
         assertEquals(testcaladd.add(),9);
       }
 
-	@Test	
-      public void testCalc1() {
-        assertEquals("Result - Fail", 9, 9);
-      }
-	
 	
     }
